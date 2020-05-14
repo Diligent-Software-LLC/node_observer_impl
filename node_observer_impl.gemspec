@@ -4,7 +4,7 @@ Gem::Specification.new do |spec|
 
   # Required attributes.
   spec.name                  = "node_observer_impl"
-  spec.version               = NodeObserverImpl::VERSION
+  spec.version               = NodeObserver::VERSION
   spec.authors               = ["Diligent Software LLC"]
   spec.email                 = ["contact@diligentsoftware.org"]
   spec.summary               = %q{A NodeObserver library implementation.}
