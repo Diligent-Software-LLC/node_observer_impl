@@ -27,7 +27,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e21e4275-24b5-4503-ba2f-ad24bc8bac55" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/node_observer_impl.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/node_observer_impl.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -234,7 +234,7 @@
       <workItem from="1588726968840" duration="13606000" />
       <workItem from="1588801202656" duration="187000" />
       <workItem from="1589142032432" duration="14000" />
-      <workItem from="1589459985808" duration="15479000" />
+      <workItem from="1589459985808" duration="16975000" />
     </task>
     <task id="LOCAL-00001" summary="Setup Complete&#10;&#10;Added version.rb. Added Gem Specification. Added README.md.">
       <created>1588727819516</created>
@@ -257,7 +257,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589492726490</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Prepare Deployment&#10;&#10;Fixed bug.">
+      <created>1589502059218</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1589502059218</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers>
       <YouTrack url="https://macbook-pro.local:8443">
         <option name="defaultSearch" value="project: Observer Subsystem:{ Node } Component: Implementation Sprints: 1 State: {Prepare Deployment}" />
@@ -283,17 +290,18 @@
     <MESSAGE value="Setup Complete&#10;&#10;Added version.rb. Added Gem Specification. Added README.md." />
     <MESSAGE value="Development Complete&#10;&#10;Added 'NodeObserver.instance()', 'subject(n = nil)', 'changed_node(subject = nil)', 'subject_changed(subject = nil)', 'add(n = nil)', 'remove(n = nil)', 'observing()', 'changed()', 'add_changed(n = nil)', 'remove_changed(n = nil)', 'notify(n = nil)', 'observing=(s = nil)', 'changed=(s = nil)', 'receive_change(n = nil)', 'initialize()', 'NodeObserver.instance=(singleton = nil)', and 'NodeObserver.new()'. Added test coverage. Some tests require integration testing." />
     <MESSAGE value="Prepare Deployment&#10;&#10;Deleted Travis CI deployment settings. Updated Changelog.md." />
-    <option name="LAST_COMMIT_MESSAGE" value="Prepare Deployment&#10;&#10;Deleted Travis CI deployment settings. Updated Changelog.md." />
+    <MESSAGE value="Prepare Deployment&#10;&#10;Fixed bug." />
+    <option name="LAST_COMMIT_MESSAGE" value="Prepare Deployment&#10;&#10;Fixed bug." />
   </component>
   <component name="WindowStateProjectService">
     <state x="438" y="175" key="#Servers" timestamp="1588546005694">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
     <state x="438" y="175" key="#Servers/0.23.1680.975@0.23.1680.975" timestamp="1588546005694" />
-    <state x="69" y="57" width="1488" height="896" key="CommitChangelistDialog2" timestamp="1589492726245">
+    <state x="69" y="57" width="1488" height="896" key="CommitChangelistDialog2" timestamp="1589502058763">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state x="69" y="57" width="1488" height="896" key="CommitChangelistDialog2/0.23.1680.975@0.23.1680.975" timestamp="1589492726245" />
+    <state x="69" y="57" width="1488" height="896" key="CommitChangelistDialog2/0.23.1680.975@0.23.1680.975" timestamp="1589502058763" />
     <state width="1545" height="269" key="GridCell.Tab.0.bottom" timestamp="1589491684228">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
@@ -310,10 +318,10 @@
       <screen x="0" y="23" width="1680" height="975" />
     </state>
     <state width="1545" height="269" key="GridCell.Tab.0.right/0.23.1680.975@0.23.1680.975" timestamp="1589491684228" />
-    <state x="438" y="250" key="Vcs.Push.Dialog.v2" timestamp="1589499153525">
+    <state x="438" y="250" key="Vcs.Push.Dialog.v2" timestamp="1589502061992">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state x="438" y="250" key="Vcs.Push.Dialog.v2/0.23.1680.975@0.23.1680.975" timestamp="1589499153525" />
+    <state x="438" y="250" key="Vcs.Push.Dialog.v2/0.23.1680.975@0.23.1680.975" timestamp="1589502061992" />
     <state x="433" y="235" width="816" height="550" key="find.popup" timestamp="1588714131676">
       <screen x="0" y="23" width="1680" height="975" />
     </state>

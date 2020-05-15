@@ -5,7 +5,7 @@ A NodeObserver library implementation.
 ## Installation
 
 - Refer the Implementation's
-[Packages](https://docs.diligentsoftware.org/observer-1/packages).
+[Packages](https://docs.diligentsoftware.org/observer-1/node/packages#implementation).
 
 ## Documentation
 
