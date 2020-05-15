@@ -57,6 +57,7 @@ class NodeObserver < Observer
   #   nil.
   def subject_changed(subject = nil)
     receive_change(subject)
+    return nil
   end
 
   # add(n = nil).
